@@ -1,15 +1,15 @@
 {
-  "name": "todo-redux-saga",
+  "name": "runr",
   "version": "0.0.0",
-  "description": "Todo app with React, Redux, Redux-Saga, and Firebase",
-  "homepage": "https://todo-redux-saga.firebaseapp.com",
+  "description": "Reconfigured todo app with React, Redux, Redux-Saga, and Firebase",
+  "homepage": "https://runr.me",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/r-park/todo-redux-saga.git"
+    "url": "git+https://github.com/automotola/recorder.git"
   },
   "author": {
-    "name": "Richard Park",
-    "email": "objectiv@gmail.com"
+    "name": "Automotola",
+    "email": "automotola@gmail.com"
   },
   "license": "MIT",
   "private": true,

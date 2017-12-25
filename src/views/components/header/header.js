@@ -10,7 +10,7 @@ const Header = ({authenticated, signOut}) => (
   <header className="header">
     <div className="g-row">
       <div className="g-col">
-        <h1 className="header__title">Todo Redux Saga</h1>
+        <h1 className="header__title">RunR</h1>
 
         <ul className="header__actions">
           {authenticated ? <li><Button onClick={signOut}>Sign out</Button></li> : null}
