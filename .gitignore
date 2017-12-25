@@ -3,6 +3,7 @@
 #--------------------------------------
 build/
 dist/
+_backup/
 coverage/
 node_modules/
 tmp/
